@@ -1,7 +1,7 @@
  🌸 Hey 🌸 
 
 
-Um pouco sobre meu conhecimentoe jornada de aprendizado:
+Um pouco sobre meu conhecimento e jornada de aprendizado:
 
 - 💢  Estou aprendendo: Consultas SQL.
 - 🩹  Estou disposto a contribuir com: Python e visualização de dados.
