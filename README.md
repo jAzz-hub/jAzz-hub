@@ -7,3 +7,18 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 - 💥  Procuro ajuda para aprender melhor tópicos sobre: Estatística, visualização de dados e aprendizado de máquina.
 - 👁‍🗨 Você pode me encontrar através destes caminhos: https://jazz-hub.github.io/Link-tree/All_links.html
 - 🪨Linguagem favorita: Cuneiforme
+
+
+### 🛠️ Tools and Languages
+
+<div id="tools" align="center">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" alt="networkx" width="40" height="40"/>  
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title = "sklearn" alt = "sklearn width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
