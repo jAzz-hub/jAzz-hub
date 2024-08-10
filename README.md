@@ -15,6 +15,7 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
   <img src ="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>
+  <img src ="https://avatars.githubusercontent.com/u/1144411?s=48&v=4" title="Gephi" alt="Gephi" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" alt="networkx" width="40" height="40"/>  
   <img src ="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title = "sklearn" alt = "sklearn width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>
