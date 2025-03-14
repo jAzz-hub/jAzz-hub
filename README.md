@@ -5,7 +5,7 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 - 💡  Estou aprendendo: PowerBI no estágio.
 <!-- por indicações do [Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza?tab=readme-ov-file#intermediario) e computação em núvem pelos cursos gratuitos da [AWS](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path). -->
 - 🩹  Estou disposto a contribuir com: Python, Visualização de Dados, Algoritmos e Estruturas de Dados.
-- 💥  Procuro ajuda para aprender melhor tópicos sobre: Análise de dados, Gestão Empresarial, Redes de Computadores e Cybersegurança.
+- 💥  Procuro ajuda para aprender melhor tópicos sobre: Análise de Dados, Gestão Empresarial, Redes de Computadores e Cybersegurança.
 
 ### 🛠️ Tools and Languages
 
