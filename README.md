@@ -2,10 +2,9 @@ Olá 🌸
 
 Um pouco sobre meu conhecimento e jornada de aprendizado:
 
-- 💡  Estou aprendendo: PowerBI e Gestão Organizacional no estágio.
-<!-- por indicações do [Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza?tab=readme-ov-file#intermediario) e computação em núvem pelos cursos gratuitos da [AWS](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path). -->
-- 🩹  Estou disposto a contribuir com: Python, Visualização de Dados, Algoritmos e Estruturas de Dados.
-- 💥  Procuro ajuda para aprender melhor tópicos sobre: Análise de Dados, Gestão Empresarial, Redes de Computadores e Cybersegurança.
+- 💡  Estou aprendendo: Docker, Git, React, FastAPI, Python, Expo e Engenharia de Software.
+- 🩹  Estou disposto a contribuir com: Python, Visualização de Dados, Algoritmos, Estatística e Estruturas de Dados.
+- 💥  Procuro ajuda para aprender melhor tópicos sobre: Gerenciamento de Features, Padrões de Projeto, Linux, Containerização, Análise de Dados, Gestão Empresarial, Redes de Computadores e Cybersegurança.
 
 ### 🛠️ Tools and Languages
 
@@ -21,5 +20,8 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
   <img src ="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+
 </div>
